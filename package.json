@@ -1,0 +1,12 @@
+{
+  "name": "docconnect-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "4.19.2",
+    "uuid": "9.0.1",
+    "cors": "2.8.5"
+  }
+}
